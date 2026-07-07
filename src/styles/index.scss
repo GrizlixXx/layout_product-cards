@@ -9,6 +9,6 @@
 }
 
 body {
-  font-family: Roboto, sans-serif;
-  font-weight: 500;
+  font-family: variables.$font-family-base;
+  font-weight: variables.$font-weight-base;
 }

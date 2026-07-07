@@ -8,8 +8,8 @@
   border-radius: $radius;
   width: $card-width;
 
-  font-family: Roboto, sans-serif;
-  font-weight: 400;
+  font-family: $font-family-base;
+  font-weight: $font-weight-normal;
 
   &__image {
     display: block;
